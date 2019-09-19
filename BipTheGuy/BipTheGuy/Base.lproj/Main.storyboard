@@ -38,7 +38,6 @@
                                         <rect key="frame" x="0.0" y="0.0" width="92" height="30"/>
                                         <state key="normal" title="Photo Library"/>
                                         <connections>
-                                            <action selector="libraryClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9Jk-5b-3ak"/>
                                             <action selector="libraryPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8fN-nf-9w1"/>
                                         </connections>
                                     </button>
